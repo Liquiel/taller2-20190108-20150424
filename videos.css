@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Montserrat:wght@500&display=swap');
+.container{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 10%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.vid-box{
+    display: flex;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+}
+.vid-1{
+    margin: 3%;
+}
+.vid-2{
+    margin: 3%;
+}
+.vid-box video P{
+    width: 50%;
+    height: 50%;
+}
+video{
+    margin-left: 10%;
+}
